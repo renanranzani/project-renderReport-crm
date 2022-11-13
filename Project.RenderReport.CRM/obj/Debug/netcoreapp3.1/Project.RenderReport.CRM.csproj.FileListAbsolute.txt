@@ -1,0 +1,34 @@
+C:\Users\rranzani\Documents\Renan\Project.RenderReport.CRM\Project.RenderReport.CRM\obj\Debug\netcoreapp3.1\Project.RenderReport.CRM.csproj.AssemblyReference.cache
+C:\Users\rranzani\Documents\Renan\Project.RenderReport.CRM\Project.RenderReport.CRM\obj\Debug\netcoreapp3.1\Project.RenderReport.CRM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rranzani\Documents\Renan\Project.RenderReport.CRM\Project.RenderReport.CRM\obj\Debug\netcoreapp3.1\Project.RenderReport.CRM.AssemblyInfoInputs.cache
+C:\Users\rranzani\Documents\Renan\Project.RenderReport.CRM\Project.RenderReport.CRM\obj\Debug\netcoreapp3.1\Project.RenderReport.CRM.AssemblyInfo.cs
+C:\Users\rranzani\Documents\Renan\Project.RenderReport.CRM\Project.RenderReport.CRM\obj\Debug\netcoreapp3.1\Project.RenderReport.CRM.csproj.CoreCompileInputs.cache
+C:\Users\rranzani\Documents\Renan\Project.RenderReport.CRM\Project.RenderReport.CRM\obj\Debug\netcoreapp3.1\Project.RenderReport.CRM.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rranzani\Documents\Renan\Project.RenderReport.CRM\Project.RenderReport.CRM\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\rranzani\Documents\Renan\Project.RenderReport.CRM\Project.RenderReport.CRM\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\rranzani\Documents\Renan\Project.RenderReport.CRM\Project.RenderReport.CRM\bin\Debug\netcoreapp3.1\Project.RenderReport.CRM.exe
+C:\Users\rranzani\Documents\Renan\Project.RenderReport.CRM\Project.RenderReport.CRM\bin\Debug\netcoreapp3.1\Project.RenderReport.CRM.deps.json
+C:\Users\rranzani\Documents\Renan\Project.RenderReport.CRM\Project.RenderReport.CRM\bin\Debug\netcoreapp3.1\Project.RenderReport.CRM.runtimeconfig.json
+C:\Users\rranzani\Documents\Renan\Project.RenderReport.CRM\Project.RenderReport.CRM\bin\Debug\netcoreapp3.1\Project.RenderReport.CRM.runtimeconfig.dev.json
+C:\Users\rranzani\Documents\Renan\Project.RenderReport.CRM\Project.RenderReport.CRM\bin\Debug\netcoreapp3.1\Project.RenderReport.CRM.dll
+C:\Users\rranzani\Documents\Renan\Project.RenderReport.CRM\Project.RenderReport.CRM\bin\Debug\netcoreapp3.1\Project.RenderReport.CRM.pdb
+C:\Users\rranzani\Documents\Renan\Project.RenderReport.CRM\Project.RenderReport.CRM\bin\Debug\netcoreapp3.1\Microsoft.Office.Interop.Excel.dll
+C:\Users\rranzani\Documents\Renan\Project.RenderReport.CRM\Project.RenderReport.CRM\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\rranzani\Documents\Renan\Project.RenderReport.CRM\Project.RenderReport.CRM\bin\Debug\netcoreapp3.1\System.Reactive.Windows.Forms.dll
+C:\Users\rranzani\Documents\Renan\Project.RenderReport.CRM\Project.RenderReport.CRM\bin\Debug\netcoreapp3.1\System.Reactive.dll
+C:\Users\rranzani\Documents\Renan\Project.RenderReport.CRM\Project.RenderReport.CRM\bin\Debug\netcoreapp3.1\System.Windows.Forms.dll
+C:\Users\rranzani\Documents\Renan\Project.RenderReport.CRM\Project.RenderReport.CRM\bin\Debug\netcoreapp3.1\System.Reactive.xml
+C:\Users\rranzani\Documents\Renan\Project.RenderReport.CRM\Project.RenderReport.CRM\obj\Debug\netcoreapp3.1\staticwebassets\Project.RenderReport.CRM.StaticWebAssets.Manifest.cache
+C:\Users\rranzani\Documents\Renan\Project.RenderReport.CRM\Project.RenderReport.CRM\obj\Debug\netcoreapp3.1\Project.RenderReport.CRM.RazorTargetAssemblyInfo.cache
+C:\Users\rranzani\Documents\Renan\Project.RenderReport.CRM\Project.RenderReport.CRM\obj\Debug\netcoreapp3.1\Project.RenderReport.CRM.csproj.CopyComplete
+C:\Users\rranzani\Documents\Renan\Project.RenderReport.CRM\Project.RenderReport.CRM\obj\Debug\netcoreapp3.1\Project.RenderReport.CRM.dll
+C:\Users\rranzani\Documents\Renan\Project.RenderReport.CRM\Project.RenderReport.CRM\obj\Debug\netcoreapp3.1\Project.RenderReport.CRM.pdb
+C:\Users\rranzani\Documents\Renan\Project.RenderReport.CRM\Project.RenderReport.CRM\obj\Debug\netcoreapp3.1\Project.RenderReport.CRM.genruntimeconfig.cache
+C:\Users\Beatriz F C Ranzani\Documents\Project.RenderReport.CRM\Project.RenderReport.CRM\obj\Debug\netcoreapp3.1\Project.RenderReport.CRM.csproj.AssemblyReference.cache
+C:\Users\Beatriz F C Ranzani\Documents\Project.RenderReport.CRM\Project.RenderReport.CRM\obj\Debug\netcoreapp3.1\Project.RenderReport.CRM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Beatriz F C Ranzani\Documents\Project.RenderReport.CRM\Project.RenderReport.CRM\obj\Debug\netcoreapp3.1\Project.RenderReport.CRM.AssemblyInfoInputs.cache
+C:\Users\Beatriz F C Ranzani\Documents\Project.RenderReport.CRM\Project.RenderReport.CRM\obj\Debug\netcoreapp3.1\Project.RenderReport.CRM.AssemblyInfo.cs
+C:\Users\Beatriz F C Ranzani\Documents\Project.RenderReport.CRM\Project.RenderReport.CRM\obj\Debug\netcoreapp3.1\Project.RenderReport.CRM.csproj.CoreCompileInputs.cache
+C:\Users\Beatriz F C Ranzani\Documents\Project.RenderReport.CRM\Project.RenderReport.CRM\obj\Debug\netcoreapp3.1\Project.RenderReport.CRM.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Beatriz F C Ranzani\Documents\Project.RenderReport.CRM\Project.RenderReport.CRM\obj\Debug\netcoreapp3.1\Project.RenderReport.CRM.dll
+C:\Users\Beatriz F C Ranzani\Documents\Project.RenderReport.CRM\Project.RenderReport.CRM\obj\Debug\netcoreapp3.1\Project.RenderReport.CRM.pdb

@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "4slnEsfS2iNp8Nk4gfQi0gPJjcBwHg8YFQY/pRlnZ9nvrFBxNUQyM6Mx+zhPT2KiFPBLHrbvmMuMBvl9k2VY3A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Beatriz F C Ranzani\\Documents\\Project.RenderReport.CRM\\Project.RenderReport.CRM\\Project.RenderReport.CRM.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Beatriz F C Ranzani\\.nuget\\packages\\microsoft.office.interop.excel\\15.0.4795.1001\\microsoft.office.interop.excel.15.0.4795.1001.nupkg.sha512",
+    "C:\\Users\\Beatriz F C Ranzani\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Beatriz F C Ranzani\\.nuget\\packages\\system.reactive\\5.0.0\\system.reactive.5.0.0.nupkg.sha512",
+    "C:\\Users\\Beatriz F C Ranzani\\.nuget\\packages\\system.reactive.windows.forms\\5.0.0\\system.reactive.windows.forms.5.0.0.nupkg.sha512",
+    "C:\\Users\\Beatriz F C Ranzani\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "O pacote 'System.Reactive.Windows.Forms 5.0.0' foi restaurado usando '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' em vez da estrutura de destino do projeto '.NETCoreApp,Version=v3.1'. Esse pacote pode não ser totalmente compatível com o seu projeto.",
+      "libraryId": "System.Reactive.Windows.Forms",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}
